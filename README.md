@@ -56,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NarendranathCh/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Math
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
