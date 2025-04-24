@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/NarendranathCh/Leetcode/tree/master/0049-group-anagrams) |
+| [0496-next-greater-element-i](https://github.com/NarendranathCh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NarendranathCh/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/NarendranathCh/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/NarendranathCh/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0496-next-greater-element-i](https://github.com/NarendranathCh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NarendranathCh/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1500-count-largest-group](https://github.com/NarendranathCh/Leetcode/tree/master/1500-count-largest-group) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NarendranathCh/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/NarendranathCh/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/NarendranathCh/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/NarendranathCh/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/NarendranathCh/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
