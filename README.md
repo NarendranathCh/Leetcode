@@ -89,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/NarendranathCh/Leetcode/tree/master/0682-baseball-game) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/NarendranathCh/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/NarendranathCh/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
