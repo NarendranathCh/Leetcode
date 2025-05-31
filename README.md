@@ -91,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NarendranathCh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/NarendranathCh/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NarendranathCh/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/NarendranathCh/Leetcode/tree/master/0070-climbing-stairs) |
 | [1500-count-largest-group](https://github.com/NarendranathCh/Leetcode/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NarendranathCh/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/NarendranathCh/Leetcode/tree/master/0070-climbing-stairs) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Combinatorics
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NarendranathCh/Leetcode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NarendranathCh/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
