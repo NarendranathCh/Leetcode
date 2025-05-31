@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NarendranathCh/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/NarendranathCh/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/NarendranathCh/Leetcode/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/NarendranathCh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/NarendranathCh/Leetcode/tree/master/0682-baseball-game) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/NarendranathCh/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NarendranathCh/Leetcode/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/NarendranathCh/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
