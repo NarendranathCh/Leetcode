@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/NarendranathCh/Leetcode/tree/master/0009-palindrome-number) |
 | [1500-count-largest-group](https://github.com/NarendranathCh/Leetcode/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Dynamic Programming
