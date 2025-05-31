@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NarendranathCh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NarendranathCh/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/NarendranathCh/Leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/NarendranathCh/Leetcode/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/NarendranathCh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/NarendranathCh/Leetcode/tree/master/0682-baseball-game) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/NarendranathCh/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NarendranathCh/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NarendranathCh/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NarendranathCh/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/NarendranathCh/Leetcode/tree/master/0066-plus-one) |
 | [1500-count-largest-group](https://github.com/NarendranathCh/Leetcode/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Dynamic Programming
