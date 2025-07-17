@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/NarendranathCh/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/NarendranathCh/Leetcode/tree/master/0070-climbing-stairs) |
 | [1500-count-largest-group](https://github.com/NarendranathCh/Leetcode/tree/master/1500-count-largest-group) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/NarendranathCh/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Dynamic Programming
 |  |
