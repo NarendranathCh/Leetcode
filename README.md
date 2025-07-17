@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/NarendranathCh/Leetcode/tree/master/1500-count-largest-group) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/NarendranathCh/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/NarendranathCh/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
