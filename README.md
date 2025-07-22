@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/NarendranathCh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/NarendranathCh/Leetcode/tree/master/0682-baseball-game) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/NarendranathCh/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NarendranathCh/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NarendranathCh/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
