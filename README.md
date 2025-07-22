@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NarendranathCh/Leetcode/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/NarendranathCh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/NarendranathCh/Leetcode/tree/master/0682-baseball-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/NarendranathCh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NarendranathCh/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/NarendranathCh/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NarendranathCh/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NarendranathCh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/NarendranathCh/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/NarendranathCh/Leetcode/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/NarendranathCh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/NarendranathCh/Leetcode/tree/master/1500-count-largest-group) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/NarendranathCh/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
