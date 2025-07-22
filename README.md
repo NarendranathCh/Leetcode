@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NarendranathCh/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/NarendranathCh/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NarendranathCh/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/NarendranathCh/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NarendranathCh/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/NarendranathCh/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NarendranathCh/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/NarendranathCh/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/NarendranathCh/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
 | ------- |
