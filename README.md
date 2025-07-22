@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/NarendranathCh/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/NarendranathCh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/NarendranathCh/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0728-self-dividing-numbers](https://github.com/NarendranathCh/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/NarendranathCh/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NarendranathCh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/NarendranathCh/Leetcode/tree/master/1500-count-largest-group) |
