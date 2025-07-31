@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NarendranathCh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NarendranathCh/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/NarendranathCh/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/NarendranathCh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NarendranathCh/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/NarendranathCh/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NarendranathCh/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/NarendranathCh/Leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/NarendranathCh/Leetcode/tree/master/0682-baseball-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/NarendranathCh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NarendranathCh/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NarendranathCh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NarendranathCh/Leetcode/tree/master/0027-remove-element) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/NarendranathCh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
