@@ -95,18 +95,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0101-symmetric-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NarendranathCh/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0101-symmetric-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NarendranathCh/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0101-symmetric-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NarendranathCh/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0101-symmetric-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NarendranathCh/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Math
 |  |
