@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/NarendranathCh/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/NarendranathCh/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/NarendranathCh/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/NarendranathCh/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/NarendranathCh/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NarendranathCh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NarendranathCh/Leetcode/tree/master/0118-pascals-triangle) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NarendranathCh/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/NarendranathCh/Leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/NarendranathCh/Leetcode/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NarendranathCh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/NarendranathCh/Leetcode/tree/master/0940-fruit-into-baskets) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/NarendranathCh/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
