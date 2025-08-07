@@ -16,7 +16,6 @@ class Solution {
                 stack.push(Integer.parseInt(op));      
         }
       } 
-
       int total = 0;
       for (int score : stack) {
         total += score;
