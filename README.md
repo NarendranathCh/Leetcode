@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/NarendranathCh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NarendranathCh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/NarendranathCh/Leetcode/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/NarendranathCh/Leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/NarendranathCh/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NarendranathCh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NarendranathCh/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/NarendranathCh/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NarendranathCh/Leetcode/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NarendranathCh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/NarendranathCh/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
