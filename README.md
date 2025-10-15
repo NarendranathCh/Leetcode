@@ -250,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NarendranathCh/Leetcode/tree/master/0054-spiral-matrix) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/NarendranathCh/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
