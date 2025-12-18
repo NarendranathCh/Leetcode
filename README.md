@@ -106,23 +106,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NarendranathCh/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NarendranathCh/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NarendranathCh/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NarendranathCh/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NarendranathCh/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NarendranathCh/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NarendranathCh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NarendranathCh/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Math
 |  |
