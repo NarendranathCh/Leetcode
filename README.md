@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NarendranathCh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/NarendranathCh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NarendranathCh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/NarendranathCh/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/NarendranathCh/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/NarendranathCh/Leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/NarendranathCh/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NarendranathCh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/NarendranathCh/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0605-can-place-flowers](https://github.com/NarendranathCh/Leetcode/tree/master/0605-can-place-flowers) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/NarendranathCh/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Monotonic Stack
 |  |
