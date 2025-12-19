@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NarendranathCh/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/NarendranathCh/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/NarendranathCh/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NarendranathCh/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/NarendranathCh/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/NarendranathCh/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0728-self-dividing-numbers](https://github.com/NarendranathCh/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/NarendranathCh/Leetcode/tree/master/1013-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NarendranathCh/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NarendranathCh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/NarendranathCh/Leetcode/tree/master/1500-count-largest-group) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/NarendranathCh/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
