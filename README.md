@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/NarendranathCh/Leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/NarendranathCh/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NarendranathCh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/NarendranathCh/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NarendranathCh/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/NarendranathCh/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NarendranathCh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
